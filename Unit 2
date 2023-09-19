@@ -1,0 +1,10 @@
+implement a class called bank account that represents a bank account.the class should have private
+attribute for account number, account holder name and account balance. include methods...
+deposit money, with draw money and display the account balance .
+cannot be accessed directly from outside the class write a program to create an instance of the
+bank account class and test the deposit and withdraw functionally...
+
+
+class bank account
+
+de
